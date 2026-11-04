@@ -1,0 +1,11 @@
+{
+  "skill_name": "dark-youtube-retention-editor",
+  "default_effect_window_seconds": 120,
+  "preserve_full_video": true,
+  "preserve_original_audio": true,
+  "preserve_after_effect_window": true,
+  "faceless_only": true,
+  "high_visual_density": true,
+  "random_effects": false,
+  "contextual_effect_selection": true
+}
